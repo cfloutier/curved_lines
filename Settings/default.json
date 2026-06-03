@@ -1,0 +1,48 @@
+{
+  "Style": {
+    "backgroundColor": -16777216,
+    "lineColor": -1,
+    "lineWidth": 1
+  },
+  "Page": {
+    "clipping": false,
+    "clip_width": 0,
+    "margin": 3,
+    "clip_height": 0,
+    "paper_format": 0,
+    "global_scale": 1
+  },
+  "Curves": {
+    "spacing": 12.940000534057617,
+    "sample_steps": 25,
+    "islands": true,
+    "count": 6,
+    "draw_handles": true,
+    "controlPoints": [
+      {
+        "x": -120,
+        "y": -280
+      },
+      {
+        "x": -183,
+        "y": 82
+      },
+      {
+        "x": 80,
+        "y": -205
+      },
+      {
+        "x": 120,
+        "y": 60
+      },
+      {
+        "x": -120,
+        "y": 120
+      },
+      {
+        "x": -120,
+        "y": 280
+      }
+    ]
+  }
+}
